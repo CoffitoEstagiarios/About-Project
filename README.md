@@ -63,3 +63,12 @@ Desenvolvido por Bryan Peter, Denilson E Daniel Timoteo.
 
 Este projeto é de uso interno e restrito ao COFFITO.
 Não é permitida a distribuição ou uso externo sem autorização prévia.
+
+![Image](https://github.com/user-attachments/assets/46ac2454-eda8-4325-9648-aa346a88e108)
+![Image](https://github.com/user-attachments/assets/d3047e4f-2522-400d-b7be-a9aad5641928)
+![Image](https://github.com/user-attachments/assets/e668fe57-4d87-4915-bb46-43735cbb9b69)
+![Image](https://github.com/user-attachments/assets/8ad33eb0-36ae-4a95-9d24-fd0e80ea841d)
+![Image](https://github.com/user-attachments/assets/95e677da-6210-47e5-be6b-3c1a7e819b8f)
+![Image](https://github.com/user-attachments/assets/5880be4d-7510-4951-ac60-66f3edbf9e3a)
+![Image](https://github.com/user-attachments/assets/3cb5a171-1ba5-4e99-8976-1bde45d6a26d)
+![Image](https://github.com/user-attachments/assets/6f7ed392-9937-4f80-91e3-2044d203a31a)
